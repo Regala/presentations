@@ -1,2 +1,2 @@
 # Slides available at
-slides.com
+https://slides.com/miguelregala/template-injection
